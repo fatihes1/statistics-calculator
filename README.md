@@ -1,6 +1,6 @@
 # Statistics Calculator Turkish
 Web tabanlı istatistik uygulaması/projesi.
-
+[Live Demo](http://esfatih.pythonanywhere.com/calculate)
 
 # Giriş
 **İstatistik** veya **sayıtım**, belirli bir amaç için veri toplama, tablo ve grafiklerle **özetleme**, sonuçları yorumlama, sonuçların güven derecelerini açıklama, örneklerden elde edilen sonuçları kitle için genelleme, özellikler arasındaki ilişkiyi araştırma, çeşitli konularda geleceğe ilişkin tahmin yapma, deney düzenleme ve gözlem ilkelerini kapsayan bir bilimdir. Belirli bir amaç için verilerin toplanması, sınıflandırılması, çözümlenmesi ve sonuçlarının yorumlanması esasına dayanır. 
@@ -10,6 +10,7 @@ Bu web tabanlı projede girilen bir sayı dizisinin (tam sayı veya ondalıklı 
 
 
 ## Kurulum
+Projeyi görüntülemek ve test etmek için buraya [tıklayınız.](http://esfatih.pythonanywhere.com/calculate)
 
 Projeyi yerel bilgisayarınızda çalıştırmak/geliştirmek için aşağıdaki ön kurulumlar gereklidir.
 `Python :` (3.8 versiyon ile kodlanmıştır.)
