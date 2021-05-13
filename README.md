@@ -42,6 +42,8 @@ Yukarıdaki iki işlemden birini yaptığınızda proje dosyaları yerel bilgisa
 
 You can access the **tutorial pages** by clicking the **titles**.
 ## Uygulama içi Görseller
+![Giriş Sayfası](https://user-images.githubusercontent.com/54971670/118193425-56b4b980-b450-11eb-8d00-caf02d9adb44.PNG)
+![Verilerin Gösterilme Sayfası](https://user-images.githubusercontent.com/54971670/118193422-55838c80-b450-11eb-9221-6a1260feb060.PNG)
 
 ## Yazar
 `Fatih Es`
